@@ -1,6 +1,6 @@
 # Proton-GE-without-steam
 ## Description
-A little script that allow you to run any .exe game with a Proton-GE install
+A little script that allows you to run any .exe game with a Proton-GE install
 ## Prerequiste
 - ```steam```
 - ```zenity```
